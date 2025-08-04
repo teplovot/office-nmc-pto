@@ -1,6 +1,6 @@
 *.log
 .DS_Store
-/.osp
+.osp/
 .env
 .env.backup
 .env.production
